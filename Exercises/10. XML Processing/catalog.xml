@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<albums>
+	<album>
+		<name>The King of Limbs</name>
+		<artist>Radiohead</artist>
+		<year>2011</year>
+		<producer>Nigel Godrich</producer>
+		<price>50</price>
+		<songs>
+			<song>
+				<title>Bloom</title>
+				<duration>5:15</duration>
+			</song>
+			<song>
+				<title>Morning Mr Magpie</title>
+				<duration>4:41</duration>
+			</song>
+			<song>
+				<title>Little by Little</title>
+				<duration>4:27</duration>
+			</song>
+			<song>
+				<title>Feral</title>
+				<duration>3:13</duration>
+			</song>
+			<song>
+				<title>Lotus Flower</title>
+				<duration>5:01</duration>
+			</song>
+			<song>
+				<title>Codex</title>
+				<duration>4:47</duration>
+			</song>
+			<song>
+				<title>Give Up the Ghost</title>
+				<duration>4:50</duration>
+			</song>
+			<song>
+				<title>Separator</title>
+				<duration>5:20</duration>
+			</song>
+		</songs>
+	</album>
+	<album>
+		<name>Dummy</name>
+		<artist>Portishead</artist>
+		<year>1994 </year>
+		<producer>Portishead</producer>
+		<price>77</price>
+		<songs>
+			<song>
+				<title>Mysterons</title>
+				<duration>5:02</duration>
+			</song>
+			<song>
+				<title>Sour Times</title>
+				<duration>4:11</duration>
+			</song>
+			<song>
+				<title>Strangers</title>
+				<duration>3:55</duration>
+			</song>
+			<song>
+				<title>It Could Be Sweet</title>
+				<duration>4:16</duration>
+			</song>
+			<song>
+				<title>Wandering Star</title>
+				<duration>4:51</duration>
+			</song>
+			<song>
+				<title>It's a Fire</title>
+				<duration>3:49</duration>
+			</song>
+			<song>
+				<title>Numb</title>
+				<duration>3:54</duration>
+			</song>
+			<song>
+				<title>Roads</title>
+				<duration>5:02</duration>
+			</song>
+			<song>
+				<title>Pedestal</title>
+				<duration>3:39</duration>
+			</song>
+			<song>
+				<title>Biscuit</title>
+				<duration>5:01</duration>
+			</song>
+			<song>
+				<title>Glory Box</title>
+				<duration>5:06</duration>
+			</song>
+		</songs>
+	</album>
+</albums>

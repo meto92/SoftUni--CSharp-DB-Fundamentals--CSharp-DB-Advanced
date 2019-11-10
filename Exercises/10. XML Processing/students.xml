@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<students>
+	<student>
+		<name>Ivan Ivanov</name>
+		<gender>Male</gender>
+		<birthDate>1999/12/23</birthDate>
+		<phoneNumber>0886123456</phoneNumber>
+		<email>ivan.invanov@abv.bg</email>
+		<university>Software University</university>
+		<specialty>C# Web Developer</specialty>
+		<facultyNumber>126875395</facultyNumber>
+		<exams>
+			<exam>
+				<name>Programming Basics</name>
+				<dateTaken>2017/01/01</dateTaken>
+				<grade>6.0</grade>
+			</exam>
+			<exam>
+				<name>Programming Fundamentasl</name>
+				<dateTaken>2017/07/01</dateTaken>
+				<grade>6.0</grade>
+			</exam>
+		</exams>
+	</student>
+	<student>
+		<name>Georgi Hristov</name>
+		<gender>Male</gender>
+		<birthDate>1995/06/11</birthDate>
+		<phoneNumber>0878441289</phoneNumber>
+		<email>georgi.hristov@abv.bg</email>
+		<university>Software University</university>
+		<specialty>C# Web Developer</specialty>
+		<facultyNumber>126875350</facultyNumber>
+		<exams>
+			<exam>
+				<name>Programming Basics</name>
+				<dateTaken>2017/01/01</dateTaken>
+				<grade>5.5</grade>
+			</exam>
+			<exam>
+				<name>Programming Fundamentasl</name>
+				<dateTaken>2017/07/01</dateTaken>
+				<grade>5.9</grade>
+			</exam>
+		</exams>
+	</student>
+</students>

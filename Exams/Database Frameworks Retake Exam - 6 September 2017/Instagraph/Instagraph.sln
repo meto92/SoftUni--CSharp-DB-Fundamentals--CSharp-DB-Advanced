@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Instagraph.App", "Instagraph.App\Instagraph.App.csproj", "{440338E0-86A8-47E0-A1E5-89DB79945541}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Instagraph.Data", "Instagraph.Data\Instagraph.Data.csproj", "{C7112BC6-DA84-4ED9-9102-30CEEAFE94CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Instagraph.Models", "Instagraph.Models\Instagraph.Models.csproj", "{CD87400D-6F2E-43AB-BC7C-D0919B56A9A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instagraph.Import", "Instagraph.Import\Instagraph.Import.csproj", "{9EB5AB77-CAA7-46E2-83A5-093853A78A71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instagraph.DTOs", "Instagraph.DTOs\Instagraph.DTOs.csproj", "{A368143A-3381-460D-9239-532B679B5BCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instagraph.Export", "Instagraph.Export\Instagraph.Export.csproj", "{253A04CF-9E7E-45A2-B4D0-CE1187295415}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{440338E0-86A8-47E0-A1E5-89DB79945541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{440338E0-86A8-47E0-A1E5-89DB79945541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{440338E0-86A8-47E0-A1E5-89DB79945541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{440338E0-86A8-47E0-A1E5-89DB79945541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7112BC6-DA84-4ED9-9102-30CEEAFE94CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7112BC6-DA84-4ED9-9102-30CEEAFE94CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7112BC6-DA84-4ED9-9102-30CEEAFE94CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7112BC6-DA84-4ED9-9102-30CEEAFE94CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD87400D-6F2E-43AB-BC7C-D0919B56A9A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD87400D-6F2E-43AB-BC7C-D0919B56A9A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD87400D-6F2E-43AB-BC7C-D0919B56A9A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD87400D-6F2E-43AB-BC7C-D0919B56A9A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EB5AB77-CAA7-46E2-83A5-093853A78A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB5AB77-CAA7-46E2-83A5-093853A78A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB5AB77-CAA7-46E2-83A5-093853A78A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB5AB77-CAA7-46E2-83A5-093853A78A71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A368143A-3381-460D-9239-532B679B5BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A368143A-3381-460D-9239-532B679B5BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A368143A-3381-460D-9239-532B679B5BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A368143A-3381-460D-9239-532B679B5BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253A04CF-9E7E-45A2-B4D0-CE1187295415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253A04CF-9E7E-45A2-B4D0-CE1187295415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253A04CF-9E7E-45A2-B4D0-CE1187295415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253A04CF-9E7E-45A2-B4D0-CE1187295415}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4BCCB04-82B3-468B-8760-839D7E49CD63}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="automapper" Version="7.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="4.0.1" />
+    <PackageReference Include="microsoft.entityframeworkcore" Version="2.1.1" />
+    <PackageReference Include="microsoft.entityframeworkcore.proxies" Version="2.1.1" />
+    <PackageReference Include="microsoft.entityframeworkcore.sqlserver" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.json" Version="2.1.1" />
+    <PackageReference Include="microsoft.extensions.dependencyinjection" Version="2.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusTicketsSystem.Data\BusTicketsSystem.Data.csproj" />
+    <ProjectReference Include="..\BusTicketsSystem.Models\BusTicketsSystem.Models.csproj" />
+    <ProjectReference Include="..\BusTicketsSystem.Services\BusTicketsSystem.Services.csproj" />
+  </ItemGroup>
+
+</Project>

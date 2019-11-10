@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20180713160430_Initial.cs" />
+    <Compile Remove="Migrations\20180713160838_Initial.cs" />
+    <Compile Remove="Migrations\20180713162600_Initial.cs" />
+    <Compile Remove="Migrations\20180713165935_Initial.cs" />
+    <Compile Remove="Migrations\20180713171609_Initial.cs" />
+    <Compile Remove="Migrations\20180713171705_Initial.cs" />
+    <Compile Remove="Migrations\20180713173546_Initial.cs" />
+    <Compile Remove="Migrations\20180713174042_Initial.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="microsoft.entityframeworkcore.proxies" Version="2.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\P01_BillsPaymentSystem.Data.Models\P01_BillsPaymentSystem.Data.Models.csproj" />
+  </ItemGroup>
+
+</Project>

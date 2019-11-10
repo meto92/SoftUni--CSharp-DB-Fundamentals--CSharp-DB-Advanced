@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="7.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PlanetHunters.DataExporter\PlanetHunters.DataExporter.csproj" />
+    <ProjectReference Include="..\PlanetHunters.DataImporter\PlanetHunters.DataImporter.csproj" />
+    <ProjectReference Include="..\PlanetHunters.Data\PlanetHunters.Data.csproj" />
+  </ItemGroup>
+
+</Project>
